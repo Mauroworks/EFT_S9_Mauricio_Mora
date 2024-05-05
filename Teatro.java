@@ -10,8 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author cesar
- */
+ 
 public class Teatro {
 
     /**
